@@ -22,19 +22,28 @@ It will deliver your desired food at your door step even at mid night as we k
 
 ## Table of Contents
 
-
-- [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Demo Video](#demo-video)
-- [Contributing](#contributing)
+- [Contribution](#contribution)
 - [License](#license)
 
+## Screenshots
+![Midnight Cravings - Google Chrome 28-08-2023 16_53_04](https://github.com/Royrishita/Midnight_Cravings/assets/143349589/7dff4077-8a54-40dc-9416-6fcb876cf1d3)
+![Midnight Cravings - Google Chrome 28-08-2023 16_53_18](https://github.com/Royrishita/Midnight_Cravings/assets/143349589/b8045326-4249-4ef9-baf7-6fe25828bf5e)
+![Midnight Cravings - Google Chrome 28-08-2023 16_53_39](https://github.com/Royrishita/Midnight_Cravings/assets/143349589/b119d7c2-0f36-4882-846c-909a442437f0)
+![Midnight Cravings - Google Chrome 28-08-2023 16_54_14](https://github.com/Royrishita/Midnight_Cravings/assets/143349589/12a8cf7d-234a-40f1-bf3a-12bf6a1c42d5)
+![Midnight Cravings - Google Chrome 28-08-2023 16_53_59](https://github.com/Royrishita/Midnight_Cravings/assets/143349589/654e884c-df20-4d37-a03e-a7c65255d27f)
 
-## Usage
+## Demo Video
+https://github.com/Royrishita/Midnight_Cravings/assets/143349589/134cce62-ddeb-4ec6-80dd-9f3848ac5ca8
 
-Here's how you can use the Awesome Project in your own projects:
+## Contribution
+@Rishita Roy
+@Diganta Das
+@Madhuboni Bhattacharya
 
-```javascript
-const awesome = require('awesome-project');
-// Use awesome functions or classes here
-## 
+## License
+Distributed under the MIT License
+
+
+
