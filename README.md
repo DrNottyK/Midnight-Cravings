@@ -42,6 +42,10 @@ https://github.com/Royrishita/Midnight_Cravings/assets/143349589/134cce62-ddeb-4
 @Diganta Das
 @Madhuboni Bhattacharya
 
+## Tracks
+1. Best Project Workflow
+2. Best Implementation of UI/UX
+
 
 
 
