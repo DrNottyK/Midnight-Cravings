@@ -25,7 +25,7 @@ It will deliver your desired food at your door step even at mid night as we k
 - [Screenshots](#screenshots)
 - [Demo Video](#demo-video)
 - [Contribution](#contribution)
-- [License](#license)
+
 
 ## Screenshots
 ![Midnight Cravings - Google Chrome 28-08-2023 16_53_04](https://github.com/Royrishita/Midnight_Cravings/assets/143349589/7dff4077-8a54-40dc-9416-6fcb876cf1d3)
@@ -42,8 +42,7 @@ https://github.com/Royrishita/Midnight_Cravings/assets/143349589/134cce62-ddeb-4
 @Diganta Das
 @Madhuboni Bhattacharya
 
-## License
-Distributed under the MIT License
+
 
 
 
