@@ -38,9 +38,9 @@ It will deliver your desired food at your door step even at mid night as we k
 https://github.com/Royrishita/Midnight_Cravings/assets/143349589/134cce62-ddeb-4ec6-80dd-9f3848ac5ca8
 
 ## Contribution
-@Rishita Roy
-@Diganta Das
-@Madhuboni Bhattacharya
+1.Rishita Roy
+2.Diganta Das
+3.Madhuboni Bhattacharya
 
 ## Tracks
 1. Best Project Workflow
